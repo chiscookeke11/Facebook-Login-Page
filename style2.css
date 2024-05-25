@@ -1,0 +1,31 @@
+@media only screen and (max-width:767px){
+	.center{
+		display: flex;
+		flex-direction: column;
+	}
+	.title{
+		margin-top: 5%;
+		width: 100%;
+	}
+	.formbox{
+	width: 100%;
+}
+.title p{
+	font-size: 18px;
+	width: 100%;
+	line-height: 25px;
+	margin-left: 6%;
+}
+.center img{
+	width: 300.95px;
+	height: 86px;
+}
+.main{
+	background-color: #e7ebee;
+	height: 110vh;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+}
